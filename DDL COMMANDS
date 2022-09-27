@@ -1,0 +1,3 @@
+CREATE TABLE workers (s_no int(5), Name varchar(25), Designation varchar(25));
+ALTER TABLE workers ADD branch varchar(25);
+DROP TABLE workers;
